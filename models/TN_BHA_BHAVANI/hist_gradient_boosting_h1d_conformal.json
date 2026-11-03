@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "horizon_days": 1,
+  "model_name": "hist_gradient_boosting",
+  "confidence_level": 0.9,
+  "q_hat": 33.0706,
+  "empirical_coverage_pct": 87.62,
+  "calibrated_at_utc": "2026-10-29T15:29:42.143304+00:00"
+}

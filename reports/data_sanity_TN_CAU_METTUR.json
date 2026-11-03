@@ -1,0 +1,14 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "is_sane": true,
+  "reason": "Data sanity checks passed",
+  "checked_at_utc": "2026-10-29T15:27:36.802704+00:00",
+  "details": {
+    "total_rows": 4684,
+    "valid_count": 4684,
+    "zero_pct": 0.0,
+    "std": 346.5414,
+    "range": 3490.24,
+    "max_gap_days": 0
+  }
+}

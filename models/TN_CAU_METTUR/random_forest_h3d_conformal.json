@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "horizon_days": 3,
+  "model_name": "random_forest",
+  "confidence_level": 0.9,
+  "q_hat": 41.1563,
+  "empirical_coverage_pct": 90.18,
+  "calibrated_at_utc": "2026-10-29T15:27:57.045562+00:00"
+}

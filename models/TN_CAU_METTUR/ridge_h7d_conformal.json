@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "horizon_days": 7,
+  "model_name": "ridge",
+  "confidence_level": 0.9,
+  "q_hat": 147.2171,
+  "empirical_coverage_pct": 93.46,
+  "calibrated_at_utc": "2026-10-29T15:28:11.150823+00:00"
+}

@@ -1,0 +1,136 @@
+project:
+  name: Tamil Nadu Flood Prediction – Academic Prototype
+  version: 0.1.0
+  description: 'Academic decision-support prototype. NOT an official flood warning
+    system. Do not use for operational decisions. Follow IMD, CWC, and your State
+    Disaster Management Authority for official guidance.
+
+    '
+stations:
+- id: TN_CAU_TRICHY
+  name: Cauvery at Tiruchirappalli (Trichy)
+  river: Cauvery
+  state: Tamil Nadu
+  latitude: 10.7905
+  longitude: 78.7047
+  timezone: Asia/Kolkata
+  elevation_m: 88
+- id: TN_CAU_METTUR
+  name: Cauvery at Mettur Dam (downstream)
+  river: Cauvery
+  state: Tamil Nadu
+  latitude: 11.7932
+  longitude: 77.7513
+  timezone: Asia/Kolkata
+  elevation_m: 205
+- id: TN_CAU_MUSIRI
+  name: Cauvery at Musiri
+  river: Cauvery
+  state: Tamil Nadu
+  latitude: 10.9054
+  longitude: 78.4432
+  timezone: Asia/Kolkata
+  elevation_m: 95
+- id: TN_VAI_MADURAI
+  name: Vaigai at Madurai
+  river: Vaigai
+  state: Tamil Nadu
+  latitude: 9.9252
+  longitude: 78.1198
+  timezone: Asia/Kolkata
+  elevation_m: 136
+- id: TN_THA_TIRUNELVELI
+  name: Thamirabarani at Tirunelveli
+  river: Thamirabarani
+  state: Tamil Nadu
+  latitude: 8.7274
+  longitude: 77.728
+  timezone: Asia/Kolkata
+  elevation_m: 47
+- id: TN_PAL_VELLORE
+  name: Palar at Vellore
+  river: Palar
+  state: Tamil Nadu
+  latitude: 12.9165
+  longitude: 79.1325
+  timezone: Asia/Kolkata
+  elevation_m: 216
+- id: TN_ADY_CHENNAI
+  name: Adyar at Chennai
+  river: Adyar
+  state: Tamil Nadu
+  latitude: 13.0067
+  longitude: 80.257
+  timezone: Asia/Kolkata
+  elevation_m: 6
+- id: TN_BHA_BHAVANI
+  name: Bhavani at Bhavani Confluence
+  river: Bhavani
+  state: Tamil Nadu
+  latitude: 11.45
+  longitude: 77.6333
+  timezone: Asia/Kolkata
+  elevation_m: 170
+- id: TN_NOY_TIRUPPUR
+  name: Noyyal at Tiruppur
+  river: Noyyal
+  state: Tamil Nadu
+  latitude: 11.1085
+  longitude: 77.3411
+  timezone: Asia/Kolkata
+  elevation_m: 295
+default_station_id: TN_CAU_TRICHY
+period:
+  start: '2014-01-01'
+  end: '2026-10-28'
+rainfall_api:
+  base_url: https://archive-api.open-meteo.com/v1/archive
+  variables:
+  - precipitation_sum
+  units:
+    precipitation: mm/day
+  cadence: daily
+  timeout_s: 30
+  max_retries: 3
+  backoff_factor: 2
+  rate_limit_pause_s: 65
+discharge_api:
+  base_url: https://flood-api.open-meteo.com/v1/flood
+  variables:
+  - river_discharge
+  units:
+    river_discharge: m³/s
+  cadence: daily
+  timeout_s: 30
+  max_retries: 3
+  backoff_factor: 2
+  rate_limit_pause_s: 65
+cwc_gauge:
+  enabled: false
+  expected_columns:
+  - timestamp
+  - station_id
+  - water_level_m
+  units:
+    water_level: m
+paths:
+  raw_dir: data/raw
+  interim_dir: data/interim
+  processed_dir: data/processed
+  reports_dir: reports
+  models_dir: models
+filename_templates:
+  raw_rainfall: '{station_id}_rainfall_raw_{date}.csv'
+  raw_discharge: '{station_id}_discharge_raw_{date}.csv'
+  validation_report: '{station_id}_{dataset}_validation_{date}.json'
+validation:
+  rainfall_min_mm: 0.0
+  rainfall_max_mm: 600.0
+  discharge_min_m3s: 0.0
+  discharge_max_m3s: 50000.0
+  max_missing_pct: 10.0
+  max_consecutive_missing: 7
+retrieval:
+  last_run_utc: null
+  retrieved_by: src/data/ingestion.py
+  source_credit: Weather and flood data by Open-Meteo.com (CC BY 4.0)

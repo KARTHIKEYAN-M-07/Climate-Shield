@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "horizon_days": 3,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 138.2623,
+  "empirical_coverage_pct": 92.75,
+  "calibrated_at_utc": "2026-10-29T15:29:58.434853+00:00"
+}

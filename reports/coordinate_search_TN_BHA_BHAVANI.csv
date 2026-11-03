@@ -1,0 +1,50 @@
+station_id,station_name,lat,lon,distance_km,is_nominal,within_max_dist,n_training_days,mean_m3s,median_m3s,p90_m3s,max_m3s,cv,zero_share,signal_rule,signal_pass,score,is_viable,raw_score
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.45,77.6333,5.45,False,True,3278,418.258,219.29,892.925,4044.76,1.074,0.0,PASS,True,753.636,True,959.00145
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.4,77.6333,7.79,False,True,3278,418.258,219.29,892.925,4044.76,1.074,0.0,PASS,True,690.177,True,959.00145
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.35,77.7333,12.38,False,True,3278,420.887,221.33,900.369,4026.17,1.072,0.0,PASS,True,596.168,True,965.1955680000001
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.3,77.7333,17.55,False,True,3278,420.887,221.33,900.369,4026.17,1.072,0.0,PASS,True,514.086,True,965.1955680000001
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.35,77.6833,11.12,False,True,3278,1.771,1.06,3.653,24.82,1.007,0.0,PASS,True,2.364,True,3.678571
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.3,77.6833,16.68,False,True,3278,1.771,1.06,3.653,24.82,1.007,0.0,PASS,True,2.006,True,3.678571
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.35,77.7833,15.57,False,True,3278,0.887,0.47,1.88,11.71,1.177,0.0,PASS,True,1.244,True,2.21276
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.5,77.5333,17.27,False,True,3278,0.647,0.3,1.72,5.32,1.249,0.0,PASS,True,1.153,True,2.14828
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.3,77.7833,19.93,False,True,3278,0.887,0.47,1.88,11.71,1.177,0.0,PASS,True,1.108,True,2.21276
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.45,77.5333,16.35,False,True,3278,0.483,0.19,1.12,7.57,1.74,0.0,PASS,True,1.072,True,1.9488
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.4,77.5333,17.27,False,True,3278,0.483,0.19,1.12,7.57,1.74,0.0,PASS,True,1.046,True,1.9488
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.45,77.7333,5.45,False,True,3278,0.343,0.19,0.72,3.89,1.232,0.0,PASS,True,0.697,True,0.8870399999999999
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.4,77.7333,7.79,False,True,3278,0.343,0.19,0.72,3.89,1.232,0.0,PASS,True,0.638,True,0.8870399999999999
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.35,77.6333,12.38,False,True,3278,0.359,0.2,0.77,5.95,1.068,0.0,PASS,True,0.508,True,0.8223600000000001
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.45,77.8333,16.35,False,True,3278,0.302,0.16,0.67,4.06,1.225,0.0,PASS,True,0.452,True,0.8207500000000001
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.4,77.8333,17.27,False,True,3278,0.302,0.16,0.67,4.06,1.225,0.0,PASS,True,0.44,True,0.8207500000000001
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.3,77.6333,17.55,False,True,3278,0.359,0.2,0.77,5.95,1.068,0.0,PASS,True,0.438,True,0.8223600000000001
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.5,77.5833,12.23,False,True,3278,0.145,0.06,0.41,1.5,1.505,0.1443,PASS,True,0.383,True,0.6170499999999999
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.35,77.5833,15.57,False,True,3278,0.102,0.03,0.243,2.08,1.577,0.0153,PASS,True,0.215,True,0.38321099999999997
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.3,77.5833,19.93,False,True,3278,0.102,0.03,0.243,2.08,1.577,0.0153,PASS,True,0.192,True,0.38321099999999997
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.45,77.6833,0.0,True,True,3278,0.461,0.34,0.77,3.38,0.713,0.0,FAIL: CV=0.71 < 0.80,False,0.0,False,0.54901
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.4,77.6833,5.56,False,True,3278,0.461,0.34,0.77,3.38,0.713,0.0,FAIL: CV=0.71 < 0.80,False,0.0,False,0.54901
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.5,77.6833,5.56,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.5,77.6333,7.78,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.5,77.7333,7.78,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.45,77.5833,10.9,False,True,3278,0.083,0.03,0.17,1.2,1.594,0.0244,FAIL: p90=0.17 < 0.20 m³/s,False,0.0,False,0.27098000000000005
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.45,77.7833,10.9,False,True,3278,0.088,0.05,0.173,1.06,1.388,0.0,FAIL: p90=0.17 < 0.20 m³/s,False,0.0,False,0.24012399999999998
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.55,77.6833,11.12,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.5,77.7833,12.23,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.4,77.5833,12.24,False,True,3278,0.083,0.03,0.17,1.2,1.594,0.0244,FAIL: p90=0.17 < 0.20 m³/s,False,0.0,False,0.27098000000000005
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.4,77.7833,12.24,False,True,3278,0.088,0.05,0.173,1.06,1.388,0.0,FAIL: p90=0.17 < 0.20 m³/s,False,0.0,False,0.24012399999999998
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.55,77.6333,12.38,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.55,77.7333,12.38,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.55,77.5833,15.57,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.55,77.7833,15.57,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.6,77.6833,16.68,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.5,77.8333,17.27,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.6,77.6333,17.55,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.6,77.7333,17.55,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.35,77.5333,19.77,False,True,3278,0.077,0.03,0.19,1.31,1.841,0.2264,FAIL: p90=0.19 < 0.20 m³/s; dry_bed=22.6% > 20%,False,0.0,False,0.34979
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.35,77.8333,19.77,False,True,3278,0.04,0.02,0.06,1.19,2.733,0.4823,FAIL: p90=0.06 < 0.20 m³/s; dry_bed=48.2% > 20%,False,0.0,False,0.16398
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.55,77.5333,19.77,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.55,77.8333,19.77,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.6,77.5833,19.92,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.6,77.7833,19.92,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.6,77.5333,23.35,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.6,77.8333,23.35,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.3,77.5333,23.36,False,True,3278,0.077,0.03,0.19,1.31,1.841,0.2264,FAIL: p90=0.19 < 0.20 m³/s; dry_bed=22.6% > 20%,False,0.0,False,0.34979
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,11.3,77.8333,23.36,False,True,3278,0.04,0.02,0.06,1.19,2.733,0.4823,FAIL: p90=0.06 < 0.20 m³/s; dry_bed=48.2% > 20%,False,0.0,False,0.16398

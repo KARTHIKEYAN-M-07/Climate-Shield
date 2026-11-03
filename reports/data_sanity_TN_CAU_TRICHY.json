@@ -1,0 +1,14 @@
+{
+  "station_id": "TN_CAU_TRICHY",
+  "is_sane": true,
+  "reason": "Data sanity checks passed",
+  "checked_at_utc": "2026-10-29T11:38:51.425278+00:00",
+  "details": {
+    "total_rows": 4684,
+    "valid_count": 4684,
+    "zero_pct": 0.0,
+    "std": 5.525,
+    "range": 111.09,
+    "max_gap_days": 0
+  }
+}

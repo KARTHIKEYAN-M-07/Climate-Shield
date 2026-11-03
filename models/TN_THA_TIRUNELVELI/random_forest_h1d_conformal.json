@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_THA_TIRUNELVELI",
+  "horizon_days": 1,
+  "model_name": "random_forest",
+  "confidence_level": 0.9,
+  "q_hat": 0.5491,
+  "empirical_coverage_pct": 91.75,
+  "calibrated_at_utc": "2026-10-29T10:11:09.254863+00:00"
+}

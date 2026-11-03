@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_THA_TIRUNELVELI",
+  "horizon_days": 3,
+  "model_name": "gradient_boosting",
+  "confidence_level": 0.9,
+  "q_hat": 0.8607,
+  "empirical_coverage_pct": 90.9,
+  "calibrated_at_utc": "2026-10-29T10:11:51.977528+00:00"
+}

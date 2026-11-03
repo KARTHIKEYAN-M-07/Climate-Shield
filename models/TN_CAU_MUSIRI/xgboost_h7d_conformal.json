@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_MUSIRI",
+  "horizon_days": 7,
+  "model_name": "xgboost",
+  "confidence_level": 0.9,
+  "q_hat": 255.4187,
+  "empirical_coverage_pct": 93.03,
+  "calibrated_at_utc": "2026-10-29T15:29:20.964247+00:00"
+}

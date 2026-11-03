@@ -1,0 +1,52 @@
+# =============================================================================
+# configs/case_studies.yaml
+# Pre-registered historical flood and extreme weather events in Tamil Nadu.
+#
+# Rule: Every pre-registered event must be evaluated and reported in full,
+# including models that fail or underpredict. No cherry-picking.
+# =============================================================================
+
+case_studies:
+  - id: "CHENNAI_FLOODS_2015"
+    name: "Chennai Historic Floods (Nov-Dec 2015)"
+    basin: "Chennai / Adyar / Cooum"
+    start_date: "2015-11-08"
+    end_date: "2015-12-15"
+    peak_date: "2015-12-01"
+    relevant_stations: ["TN_ADY_CHENNAI", "TN_PAL_VELLORE"]
+    meteorological_driver: "Deep Depression & Northeast Monsoon surge"
+    description: "Historic extreme precipitation event across northern coastal Tamil Nadu."
+    source_reference: "IMD Report on Extremely Heavy Rainfall Over Chennai and Adjoining Areas (2015)"
+
+  - id: "CYCLONE_MICHAUNG_2023"
+    name: "Cyclone Michaung (Dec 2023)"
+    basin: "Chennai / Northern Coastal TN"
+    start_date: "2023-12-01"
+    end_date: "2023-12-15"
+    peak_date: "2023-12-04"
+    relevant_stations: ["TN_ADY_CHENNAI", "TN_PAL_VELLORE"]
+    meteorological_driver: "Super Cyclonic Storm Michaung landfall"
+    description: "Sustained intense cloudbands dumping > 400 mm in 24 hours across northern coastal districts."
+    source_reference: "IMD Cyclone Warning Division Report on Cyclone Michaung (Dec 2023)"
+
+  - id: "SOUTH_TN_EXTREME_2023"
+    name: "Southern Tamil Nadu Extreme Event (Dec 2023)"
+    basin: "Thamirabarani / Vaippar"
+    start_date: "2023-12-15"
+    end_date: "2023-12-25"
+    peak_date: "2023-12-18"
+    relevant_stations: ["TN_THA_TIRUNELVELI", "TN_VAI_MADURAI"]
+    meteorological_driver: "Cyclonic circulation in Comorin Sea / equatorial wave"
+    description: "Kayalpattinam recorded 950 mm in 24h, triggering severe floods along Thamirabarani."
+    source_reference: "IMD Weather Summary & Tamil Nadu State Disaster Management Report (Dec 2023)"
+
+  - id: "CYCLONE_FENGAL_2024"
+    name: "Cyclone Fengal (Late 2024)"
+    basin: "Northern Coastal TN / Ponnaiyar"
+    start_date: "2024-11-25"
+    end_date: "2024-12-08"
+    peak_date: "2024-11-30"
+    relevant_stations: ["TN_PAL_VELLORE", "TN_CAU_TRICHY"]
+    meteorological_driver: "Cyclonic Storm Fengal crossing near Puducherry"
+    description: "Severe rainfall inundating Villupuram, Cuddalore, and Tiruvannamalai districts."
+    source_reference: "IMD Cyclone Warning Bulletins for CS Fengal (Nov-Dec 2024)"

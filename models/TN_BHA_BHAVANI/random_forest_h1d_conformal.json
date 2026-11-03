@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "horizon_days": 1,
+  "model_name": "random_forest",
+  "confidence_level": 0.9,
+  "q_hat": 30.1538,
+  "empirical_coverage_pct": 89.05,
+  "calibrated_at_utc": "2026-10-29T15:29:29.730971+00:00"
+}

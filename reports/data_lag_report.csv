@@ -1,0 +1,10 @@
+station_id,station_name,latest_data_date,latest_flow_m3s,today_date,lag_days,status
+TN_CAU_TRICHY,Cauvery at Tiruchirappalli (Trichy),2023-12-31,4.35,2026-10-29,1033,Aligned Data Present
+TN_CAU_METTUR,Cauvery at Mettur Dam (downstream),2023-12-31,0.02,2026-10-29,1033,Aligned Data Present
+TN_CAU_MUSIRI,Cauvery at Musiri,2023-12-31,0.07,2026-10-29,1033,Aligned Data Present
+TN_VAI_MADURAI,Vaigai at Madurai,2023-12-31,0.67,2026-10-29,1033,Aligned Data Present
+TN_THA_TIRUNELVELI,Thamirabarani at Tirunelveli,2023-12-31,0.76,2026-10-29,1033,Aligned Data Present
+TN_PAL_VELLORE,Palar at Vellore,2023-12-31,0.1,2026-10-29,1033,Aligned Data Present
+TN_ADY_CHENNAI,Adyar at Chennai,2023-12-31,,2026-10-29,1033,Aligned Data Present
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,2023-12-31,0.23,2026-10-29,1033,Aligned Data Present
+TN_NOY_TIRUPPUR,Noyyal at Tiruppur,2023-12-31,5.89,2026-10-29,1033,Aligned Data Present

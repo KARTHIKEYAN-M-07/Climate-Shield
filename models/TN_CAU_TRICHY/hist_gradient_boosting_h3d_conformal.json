@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_TRICHY",
+  "horizon_days": 3,
+  "model_name": "hist_gradient_boosting",
+  "confidence_level": 0.9,
+  "q_hat": 2.4534,
+  "empirical_coverage_pct": 92.46,
+  "calibrated_at_utc": "2026-10-29T11:39:17.278125+00:00"
+}

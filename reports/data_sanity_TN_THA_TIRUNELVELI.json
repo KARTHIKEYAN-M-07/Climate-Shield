@@ -1,0 +1,14 @@
+{
+  "station_id": "TN_THA_TIRUNELVELI",
+  "is_sane": true,
+  "reason": "Data sanity checks passed",
+  "checked_at_utc": "2026-10-29T10:11:03.551728+00:00",
+  "details": {
+    "total_rows": 4684,
+    "valid_count": 4684,
+    "zero_pct": 9.93,
+    "std": 1.4368,
+    "range": 43.36,
+    "max_gap_days": 0
+  }
+}

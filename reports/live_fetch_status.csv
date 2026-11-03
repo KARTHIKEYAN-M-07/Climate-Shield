@@ -1,0 +1,10 @@
+station_id,station_name,fetch_status,source_used,last_observation_date,reason
+TN_CAU_TRICHY,Cauvery at Tiruchirappalli (Trichy),FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28
+TN_CAU_METTUR,Cauvery at Mettur Dam (downstream),FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28
+TN_CAU_MUSIRI,Cauvery at Musiri,FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28
+TN_VAI_MADURAI,Vaigai at Madurai,FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28
+TN_THA_TIRUNELVELI,Thamirabarani at Tirunelveli,FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28
+TN_PAL_VELLORE,Palar at Vellore,FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28
+TN_ADY_CHENNAI,Adyar at Chennai,FALLBACK_CACHE,live_cache,,Used local cache: None
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28
+TN_NOY_TIRUPPUR,Noyyal at Tiruppur,FALLBACK_CACHE,live_cache,2026-10-28,Used local cache: 2026-10-28

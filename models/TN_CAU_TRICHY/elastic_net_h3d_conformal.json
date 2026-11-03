@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_TRICHY",
+  "horizon_days": 3,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 3.2184,
+  "empirical_coverage_pct": 92.89,
+  "calibrated_at_utc": "2026-10-29T11:39:17.589093+00:00"
+}

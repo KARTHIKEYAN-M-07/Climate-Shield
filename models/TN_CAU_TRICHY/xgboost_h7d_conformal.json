@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_TRICHY",
+  "horizon_days": 7,
+  "model_name": "xgboost",
+  "confidence_level": 0.9,
+  "q_hat": 3.7573,
+  "empirical_coverage_pct": 92.89,
+  "calibrated_at_utc": "2026-10-29T11:39:30.314704+00:00"
+}

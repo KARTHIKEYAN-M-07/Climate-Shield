@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_PAL_VELLORE",
+  "horizon_days": 3,
+  "model_name": "xgboost",
+  "confidence_level": 0.9,
+  "q_hat": 0.4849,
+  "empirical_coverage_pct": 91.61,
+  "calibrated_at_utc": "2026-10-29T10:13:01.928190+00:00"
+}

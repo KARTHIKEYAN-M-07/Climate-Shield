@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_NOY_TIRUPPUR",
+  "horizon_days": 1,
+  "model_name": "ridge",
+  "confidence_level": 0.9,
+  "q_hat": 10.9113,
+  "empirical_coverage_pct": 92.89,
+  "calibrated_at_utc": "2026-10-29T16:02:14.786648+00:00"
+}

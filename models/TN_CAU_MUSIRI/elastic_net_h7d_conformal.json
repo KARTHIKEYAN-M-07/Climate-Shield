@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_MUSIRI",
+  "horizon_days": 7,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 261.6486,
+  "empirical_coverage_pct": 93.31,
+  "calibrated_at_utc": "2026-10-29T15:29:22.898780+00:00"
+}

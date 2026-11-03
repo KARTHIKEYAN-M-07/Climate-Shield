@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_VAI_MADURAI",
+  "horizon_days": 7,
+  "model_name": "xgboost",
+  "confidence_level": 0.9,
+  "q_hat": 8.9262,
+  "empirical_coverage_pct": 96.73,
+  "calibrated_at_utc": "2026-10-29T10:10:57.313036+00:00"
+}

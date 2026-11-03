@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_VAI_MADURAI",
+  "horizon_days": 1,
+  "model_name": "random_forest",
+  "confidence_level": 0.9,
+  "q_hat": 4.4128,
+  "empirical_coverage_pct": 96.59,
+  "calibrated_at_utc": "2026-10-29T10:09:39.733794+00:00"
+}

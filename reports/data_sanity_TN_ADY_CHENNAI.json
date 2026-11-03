@@ -1,0 +1,11 @@
+{
+  "station_id": "TN_ADY_CHENNAI",
+  "is_sane": false,
+  "reason": "All discharge values are NaN (GloFAS resolution limit; unmodelled basin)",
+  "checked_at_utc": "2026-10-29T10:13:28.697377+00:00",
+  "details": {
+    "total_rows": 4684,
+    "valid_count": 0,
+    "failure_type": "all_nan"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "model_name": "persistence",
+  "station_id": "TN_CAU_METTUR",
+  "horizon_days": 7,
+  "features": [
+    "river_discharge"
+  ],
+  "target_transform": "raw",
+  "trained_at_utc": "2026-10-29T15:28:10.718707+00:00",
+  "metrics": {
+    "station_id": "TN_CAU_METTUR",
+    "horizon_days": 7,
+    "model": "persistence",
+    "mae": 47.6607,
+    "rmse": 115.8025,
+    "r2": 0.8428,
+    "nse": 0.8428,
+    "peak_flow_error_pct": 0.0,
+    "peak_timing_error_days": 7,
+    "missed_event_rate": 0.5517,
+    "false_alarm_rate": 0.0237,
+    "event_threshold_m3s": 1027.97,
+    "interval_coverage": 93.74,
+    "train_time_s": 0.0045,
+    "beats_baseline": false,
+    "beats_persistence": false,
+    "beats_all_baselines": false,
+    "target_transform": "raw",
+    "train_rows": 3273,
+    "val_rows": 701,
+    "test_rows": 703,
+    "test_start_date": "2024-11-18",
+    "test_end_date": "2026-10-21"
+  },
+  "conformal_q_hat": 141.83,
+  "conformal_test_coverage_pct": 93.74,
+  "drift_reference_stats": {
+    "feature_name": "river_discharge",
+    "mean": 322.2415,
+    "std": 361.1708,
+    "min": 0.16,
+    "max": 3490.4,
+    "p10": 64.31,
+    "p25": 71.11,
+    "p50": 152.46,
+    "p75": 546.02,
+    "p90": 695.308,
+    "quantiles_10bin": [
+      0.16,
+      64.31,
+      66.514,
+      71.61,
+      72.62,
+      152.46,
+      300.44,
+      438.944,
+      591.93,
+      695.308,
+      3490.4
+    ],
+    "n_samples": 3273
+  }
+}

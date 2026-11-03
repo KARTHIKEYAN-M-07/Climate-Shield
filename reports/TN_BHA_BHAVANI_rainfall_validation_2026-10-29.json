@@ -1,0 +1,41 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "dataset": "rainfall",
+  "validated_at_utc": "2026-10-29T15:27:22.893412+00:00",
+  "retrieval_date": "2026-10-29",
+  "total_rows": 4684,
+  "issues": [],
+  "warnings": [],
+  "summary": {
+    "value_column": "precipitation_sum",
+    "count_non_null": 4684,
+    "mean": 2.7343,
+    "std": 5.7117,
+    "min": 0.0,
+    "p25": 0.0,
+    "p50": 0.3,
+    "p75": 2.8,
+    "p95": 14.085,
+    "max": 71.6
+  },
+  "duplicate_timestamps": 0,
+  "missing_values": {
+    "count": 0,
+    "pct": 0.0,
+    "max_consecutive": 0
+  },
+  "out_of_range": {
+    "below_min": 0,
+    "above_max": 0,
+    "min_bound": 0.0,
+    "max_bound": 600.0,
+    "unit": "mm/day"
+  },
+  "coverage": {
+    "expected_start": "2014-01-01",
+    "expected_end": "2026-10-28",
+    "actual_start": "2014-01-01",
+    "actual_end": "2026-10-28"
+  },
+  "passed": true
+}

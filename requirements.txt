@@ -1,0 +1,32 @@
+# ── Core scientific stack ──────────────────────────────────────────────────────
+pandas==2.2.3
+numpy==1.26.4
+
+# ── Machine learning ──────────────────────────────────────────────────────────
+scikit-learn==1.5.2
+xgboost==2.1.4
+joblib==1.4.2
+
+# ── Visualisation ─────────────────────────────────────────────────────────────
+matplotlib==3.9.4
+plotly==5.24.1
+
+# ── Web / API ─────────────────────────────────────────────────────────────────
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pydantic==2.10.6
+requests==2.32.3
+
+# ── Dashboard ─────────────────────────────────────────────────────────────────
+streamlit==1.41.1
+
+# ── Config ────────────────────────────────────────────────────────────────────
+pyyaml==6.0.2
+
+# ── Testing ───────────────────────────────────────────────────────────────────
+pytest==8.3.4
+pytest-cov==6.0.0
+httpx==0.28.1          # FastAPI TestClient dependency
+
+# ── Optional (LSTM — install only with explicit approval in Phase 6) ──────────
+# tensorflow==2.17.0

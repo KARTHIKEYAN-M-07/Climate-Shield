@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_NOY_TIRUPPUR",
+  "horizon_days": 1,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 10.988,
+  "empirical_coverage_pct": 93.46,
+  "calibrated_at_utc": "2026-10-29T16:02:31.608319+00:00"
+}

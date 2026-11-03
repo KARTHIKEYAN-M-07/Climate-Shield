@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_NOY_TIRUPPUR",
+  "horizon_days": 3,
+  "model_name": "extra_trees",
+  "confidence_level": 0.9,
+  "q_hat": 21.0697,
+  "empirical_coverage_pct": 94.59,
+  "calibrated_at_utc": "2026-10-29T16:02:51.658681+00:00"
+}

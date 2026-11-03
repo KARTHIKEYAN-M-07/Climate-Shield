@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_VAI_MADURAI",
+  "horizon_days": 1,
+  "model_name": "hist_gradient_boosting",
+  "confidence_level": 0.9,
+  "q_hat": 4.6131,
+  "empirical_coverage_pct": 96.87,
+  "calibrated_at_utc": "2026-10-29T10:10:00.672579+00:00"
+}

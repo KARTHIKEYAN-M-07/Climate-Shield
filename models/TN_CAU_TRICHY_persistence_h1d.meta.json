@@ -1,0 +1,63 @@
+{
+  "model_name": "persistence",
+  "station_id": "TN_CAU_TRICHY",
+  "horizon_days": 1,
+  "features": [
+    "river_discharge"
+  ],
+  "target_transform": "raw",
+  "trained_at_utc": "2026-10-29T11:38:51.637546+00:00",
+  "metrics": {
+    "station_id": "TN_CAU_TRICHY",
+    "horizon_days": 1,
+    "model": "persistence",
+    "mae": 0.8005,
+    "rmse": 3.1873,
+    "r2": 0.6519,
+    "nse": 0.6519,
+    "peak_flow_error_pct": 0.0,
+    "peak_timing_error_days": 1,
+    "missed_event_rate": 0.225,
+    "false_alarm_rate": 0.0136,
+    "event_threshold_m3s": 6.39,
+    "interval_coverage": 91.04,
+    "train_time_s": 0.0018,
+    "beats_baseline": false,
+    "beats_persistence": false,
+    "beats_all_baselines": false,
+    "target_transform": "raw",
+    "train_rows": 3273,
+    "val_rows": 701,
+    "test_rows": 703,
+    "test_start_date": "2024-11-18",
+    "test_end_date": "2026-10-21"
+  },
+  "conformal_q_hat": 1.82,
+  "conformal_test_coverage_pct": 91.04,
+  "drift_reference_stats": {
+    "feature_name": "river_discharge",
+    "mean": 1.8334,
+    "std": 5.8033,
+    "min": 0.11,
+    "max": 111.2,
+    "p10": 0.16,
+    "p25": 0.23,
+    "p50": 0.58,
+    "p75": 1.09,
+    "p90": 3.198,
+    "quantiles_10bin": [
+      0.11,
+      0.16,
+      0.19,
+      0.26,
+      0.39,
+      0.58,
+      0.68,
+      0.89,
+      1.38,
+      3.198,
+      111.2
+    ],
+    "n_samples": 3273
+  }
+}

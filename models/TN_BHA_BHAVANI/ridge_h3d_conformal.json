@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "horizon_days": 3,
+  "model_name": "ridge",
+  "confidence_level": 0.9,
+  "q_hat": 91.3154,
+  "empirical_coverage_pct": 91.61,
+  "calibrated_at_utc": "2026-10-29T15:29:43.840115+00:00"
+}

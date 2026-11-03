@@ -1,0 +1,12 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "dataset": "discharge",
+  "retrieval_date_utc": "2026-10-29",
+  "rows": 4684,
+  "columns": [
+    "date",
+    "river_discharge"
+  ],
+  "source_credit": "Weather and flood data by Open-Meteo.com (CC BY 4.0)",
+  "retrieved_by": "src/data/ingestion.py"
+}

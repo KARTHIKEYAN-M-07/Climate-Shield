@@ -1,0 +1,50 @@
+station_id,station_name,lat,lon,distance_km,is_nominal,within_max_dist,n_training_days,mean_m3s,median_m3s,p90_m3s,max_m3s,cv,zero_share,signal_rule,signal_pass,score,is_viable,raw_score
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9054,78.4432,5.56,False,True,3278,502.365,255.45,1158.581,4314.19,1.082,0.0,PASS,True,980.896,True,1253.584642
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9554,78.3932,5.46,False,True,3278,501.129,258.42,1141.88,4334.11,1.075,0.0,PASS,True,964.274,True,1227.521
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9054,78.4932,7.79,False,True,3278,501.417,253.975,1160.45,4284.49,1.085,0.0,PASS,True,906.145,True,1259.08825
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9054,78.3932,7.79,False,True,3278,503.3,258.42,1158.581,4344.1,1.079,0.0,PASS,True,899.683,True,1250.1088989999998
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9554,78.3432,10.92,False,True,3278,501.738,258.72,1140.039,4344.1,1.073,0.0,PASS,True,791.243,True,1223.261847
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8554,78.5432,15.58,False,True,3278,508.08,255.155,1191.065,4334.11,1.096,0.0,PASS,True,733.787,True,1305.4072400000002
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9554,78.2932,16.38,False,True,3278,502.31,259.62,1139.25,4354.12,1.071,0.0,PASS,True,670.773,True,1220.13675
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8554,78.5932,19.8,False,True,3278,507.19,254.565,1192.99,4344.1,1.099,0.0,PASS,True,658.842,True,1311.09601
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9554,78.4932,5.46,False,True,3278,6.863,0.785,11.378,786.05,4.488,0.0,PASS,True,40.113,True,51.06446400000001
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9054,78.5432,12.25,False,True,3278,7.237,0.81,11.82,825.04,4.504,0.0,PASS,True,33.015,True,53.23728
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9054,78.3432,12.25,False,True,3278,2.533,0.28,1.959,257.23,5.069,0.0,PASS,True,6.158,True,9.930171
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8054,78.5932,23.38,False,True,3278,2.282,0.37,2.393,182.65,4.792,0.0,PASS,True,5.287,True,11.467255999999999
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8054,78.5432,19.94,False,True,3278,2.069,0.29,2.002,183.5,5.034,0.0,PASS,True,5.047,True,10.078067999999998
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8554,78.2932,19.8,False,True,3278,1.902,0.19,1.353,201.77,5.148,0.0,PASS,True,3.5,True,6.965243999999999
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8054,78.4932,17.55,False,True,3278,1.325,0.17,1.0,143.88,5.398,0.0,PASS,True,2.875,True,5.398
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8554,78.4932,12.39,False,True,3278,0.598,0.09,0.68,43.06,4.635,0.0522,PASS,True,1.946,True,3.1518
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8554,78.4432,11.12,False,True,3278,0.451,0.06,0.47,38.17,5.001,0.1171,PASS,True,1.511,True,2.35047
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8054,78.4432,16.68,False,True,3278,0.641,0.04,0.34,70.45,5.902,0.187,PASS,True,1.094,True,2.0066800000000002
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9054,78.2932,17.29,False,True,3278,0.399,0.06,0.37,41.17,5.255,0.1236,PASS,True,1.043,True,1.94435
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9554,78.4432,0.0,True,True,3278,0.14,0.03,0.12,13.66,4.492,0.0,FAIL: p90=0.12 < 0.20 m³/s,False,0.0,False,0.53904
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0054,78.4432,5.56,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0054,78.3932,7.79,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0054,78.4932,7.79,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9554,78.5432,10.92,False,True,3278,0.267,0.02,0.26,34.81,5.33,0.4448,FAIL: dry_bed=44.5% > 20%,False,0.0,False,1.3858000000000001
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0554,78.4432,11.12,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0054,78.3432,12.25,False,True,3278,0.096,0.03,0.133,2.94,3.081,0.212,FAIL: p90=0.13 < 0.20 m³/s; dry_bed=21.2% > 20%,False,0.0,False,0.409773
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0054,78.5432,12.25,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8554,78.3932,12.39,False,True,3278,0.301,0.03,0.26,30.62,5.517,0.3444,FAIL: dry_bed=34.4% > 20%,False,0.0,False,1.4344200000000003
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0554,78.3932,12.39,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0554,78.4932,12.39,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8554,78.3432,15.58,False,True,3278,0.106,0.01,0.09,11.22,5.528,0.5006,FAIL: p90=0.09 < 0.20 m³/s; dry_bed=50.1% > 20%,False,0.0,False,0.49751999999999996
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0554,78.3432,15.58,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0554,78.5432,15.58,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9554,78.5932,16.38,False,True,3278,0.134,0.0,0.13,17.88,5.43,0.5308,FAIL: p90=0.13 < 0.20 m³/s; dry_bed=53.1% > 20%,False,0.0,False,0.7059
+TN_CAU_MUSIRI,Cauvery at Musiri,11.1054,78.4432,16.68,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.9054,78.5932,17.29,False,True,3278,0.155,0.03,0.23,14.28,4.362,0.4243,FAIL: dry_bed=42.4% > 20%,False,0.0,False,1.00326
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0054,78.2932,17.29,False,True,3278,0.079,0.03,0.11,1.74,2.169,0.0,FAIL: p90=0.11 < 0.20 m³/s,False,0.0,False,0.23859
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0054,78.5932,17.29,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8054,78.3932,17.55,False,True,3278,0.54,0.03,0.26,62.97,5.956,0.201,FAIL: dry_bed=20.1% > 20%,False,0.0,False,1.5485600000000002
+TN_CAU_MUSIRI,Cauvery at Musiri,11.1054,78.3932,17.55,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.1054,78.4932,17.55,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0554,78.2932,19.79,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.0554,78.5932,19.79,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.1054,78.3432,19.93,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.1054,78.5432,19.93,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8054,78.3432,19.94,False,True,3278,0.175,0.01,0.09,23.77,6.421,0.5125,FAIL: p90=0.09 < 0.20 m³/s; dry_bed=51.3% > 20%,False,0.0,False,0.57789
+TN_CAU_MUSIRI,Cauvery at Musiri,11.1054,78.2932,23.37,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,11.1054,78.5932,23.37,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_CAU_MUSIRI,Cauvery at Musiri,10.8054,78.2932,23.38,False,True,3278,0.085,0.0,0.03,11.94,6.424,0.7163,FAIL: p90=0.03 < 0.20 m³/s; dry_bed=71.6% > 20%,False,0.0,False,0.19272

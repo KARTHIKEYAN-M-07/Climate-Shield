@@ -1,0 +1,41 @@
+{
+  "station_id": "TN_THA_TIRUNELVELI",
+  "dataset": "rainfall",
+  "validated_at_utc": "2026-10-29T10:11:03.111253+00:00",
+  "retrieval_date": "2026-10-29",
+  "total_rows": 4684,
+  "issues": [],
+  "warnings": [],
+  "summary": {
+    "value_column": "precipitation_sum",
+    "count_non_null": 4684,
+    "mean": 3.4918,
+    "std": 9.2582,
+    "min": 0.0,
+    "p25": 0.0,
+    "p50": 0.5,
+    "p75": 2.8,
+    "p95": 18.0,
+    "max": 293.9
+  },
+  "duplicate_timestamps": 0,
+  "missing_values": {
+    "count": 0,
+    "pct": 0.0,
+    "max_consecutive": 0
+  },
+  "out_of_range": {
+    "below_min": 0,
+    "above_max": 0,
+    "min_bound": 0.0,
+    "max_bound": 600.0,
+    "unit": "mm/day"
+  },
+  "coverage": {
+    "expected_start": "2014-01-01",
+    "expected_end": "2026-10-28",
+    "actual_start": "2014-01-01",
+    "actual_end": "2026-10-28"
+  },
+  "passed": true
+}

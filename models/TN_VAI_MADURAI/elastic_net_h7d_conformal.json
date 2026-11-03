@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_VAI_MADURAI",
+  "horizon_days": 7,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 7.2329,
+  "empirical_coverage_pct": 93.46,
+  "calibrated_at_utc": "2026-10-29T10:10:59.432232+00:00"
+}

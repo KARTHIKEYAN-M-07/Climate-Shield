@@ -1,0 +1,228 @@
+metadata:
+  version: 0.1.0
+  source: prototype_percentile
+  source_description: "Prototype statistical thresholds derived from training-set\
+    \ percentiles of Open-Meteo modelled river discharge (m\xB3/s). NOT official CWC\
+    \ warning or danger levels.\n"
+  units: "m\xB3/s"
+  discharge_type: modelled river discharge (Open-Meteo Flood API)
+  last_updated: '2026-10-29T16:04:03.110547+00:00'
+  caveat: 'These thresholds apply only to the specific station, training period, and
+    Open-Meteo modelled data used in this project. They will differ from official
+    CWC gauge-based thresholds.
+
+    '
+  last_recalibration_utc: '2026-10-29T15:27:23.089524+00:00'
+  source_notice: prototype statistical thresholds, not official CWC levels
+stations:
+  TN_CAU_TRICHY:
+    percentile_basis:
+      p50: 42.8
+      p75: 58.49
+      p90: 68.61
+      p95: 75.62
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 42.8
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 58.49
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 68.61
+  TN_CAU_METTUR:
+    percentile_basis:
+      p50: 152.46
+      p75: 546.02
+      p90: 695.31
+      p95: 1027.97
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 152.46
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 546.02
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 695.31
+  TN_CAU_MUSIRI:
+    percentile_basis:
+      p50: 253.68
+      p75: 813.7
+      p90: 1159.92
+      p95: 1625.31
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 253.68
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 813.7
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 1159.92
+  TN_VAI_MADURAI:
+    percentile_basis:
+      p50: 0.69
+      p75: 1.48
+      p90: 5.98
+      p95: 13.45
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 0.69
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 1.48
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 5.98
+  TN_THA_TIRUNELVELI:
+    percentile_basis:
+      p50: 0.12
+      p75: 0.22
+      p90: 0.87
+      p95: 1.92
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 0.12
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 0.22
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 0.87
+  TN_PAL_VELLORE:
+    percentile_basis:
+      p50: 0.14
+      p75: 0.28
+      p90: 0.7
+      p95: 1.3
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 0.14
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 0.28
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 0.7
+  TN_ADY_CHENNAI:
+    percentile_basis:
+      p50: 0.0
+      p75: 0.0
+      p90: 0.0
+      p95: 0.0
+    categories:
+      Low:
+        description: Unmodeled or zero discharge basin.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Advisory threshold.
+        lower_bound_m3s: 0.0
+      High:
+        description: Watch threshold.
+        lower_bound_m3s: 0.0
+      Severe:
+        description: Warning threshold.
+        lower_bound_m3s: 0.0
+  TN_BHA_BHAVANI:
+    percentile_basis:
+      p50: 216.77
+      p75: 692.43
+      p90: 893.95
+      p95: 1305.17
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 216.77
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 692.43
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 893.95
+  TN_NOY_TIRUPPUR:
+    percentile_basis:
+      p50: 7.91
+      p75: 19.04
+      p90: 37.64
+      p95: 55.59
+    categories:
+      Low:
+        description: Below median historical discharge. Normal flow.
+        lower_bound_m3s: 0.0
+      Moderate:
+        description: Above median. Elevated; monitor closely.
+        lower_bound_m3s: 7.91
+      High:
+        description: Above 75th percentile. Significant risk; prepare.
+        lower_bound_m3s: 19.04
+      Severe:
+        description: Above 90th percentile. Extreme risk; act immediately.
+        lower_bound_m3s: 37.64
+staleness:
+  max_data_age_hours: 48
+  max_forecast_age_hours: 24
+forecast_horizons_days:
+- 1
+- 3
+- 7
+station_signal_policy:
+  min_rows: 500
+  min_cv: 0.8
+  min_p90_m3s: 0.2
+  max_near_zero_share: 0.2
+conformal_coverage:
+  nominal_pct: 90.0
+  min_acceptable_pct: 88.0
+  under_coverage_warning: interval slightly under-covers on the test set
+drift_risk_policy:
+  out_of_distribution_action: LOW_CONFIDENCE
+  z_score_threshold: 3.0
+  psi_threshold: 0.25
+  top_drifting_features_count: 3
+  min_feature_std_floor: 0.05
+  excluded_feature_patterns:
+  - _flag
+  method: same_season_percentiles
+  season_window_days: 30
+  reference_percentiles:
+  - 1.0
+  - 99.0
+  min_features_outside_threshold: 2
+  min_required_past_days: 30
+  bias_tolerance_mae_mm: 5.0
+coordinate_search_policy:
+  grid_size: 7
+  step_degrees: 0.05
+  max_distance_km: 25.0
+  training_start_date: '2014-01-01'
+  training_end_date: '2022-12-22'
+  ranking_metric: proximity_penalized_score
+  require_signal_pass: true

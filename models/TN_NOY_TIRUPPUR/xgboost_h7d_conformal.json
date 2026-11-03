@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_NOY_TIRUPPUR",
+  "horizon_days": 7,
+  "model_name": "xgboost",
+  "confidence_level": 0.9,
+  "q_hat": 24.82,
+  "empirical_coverage_pct": 94.88,
+  "calibrated_at_utc": "2026-10-29T16:03:04.857093+00:00"
+}

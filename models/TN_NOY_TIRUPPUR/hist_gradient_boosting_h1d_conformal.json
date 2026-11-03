@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_NOY_TIRUPPUR",
+  "horizon_days": 1,
+  "model_name": "hist_gradient_boosting",
+  "confidence_level": 0.9,
+  "q_hat": 11.2973,
+  "empirical_coverage_pct": 93.88,
+  "calibrated_at_utc": "2026-10-29T16:02:31.380095+00:00"
+}

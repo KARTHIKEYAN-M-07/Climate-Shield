@@ -1,0 +1,52 @@
+{
+  "station_id": "TN_ADY_CHENNAI",
+  "dataset": "discharge",
+  "validated_at_utc": "2026-10-29T10:13:28.662507+00:00",
+  "retrieval_date": "2026-10-29",
+  "total_rows": 4684,
+  "issues": [],
+  "warnings": [
+    {
+      "level": "WARNING",
+      "code": "high_missing_pct",
+      "message": "100.0% missing values exceed threshold 10.0%."
+    },
+    {
+      "level": "WARNING",
+      "code": "consecutive_missing",
+      "message": "Longest consecutive missing run = 4684 rows (threshold: 7)."
+    }
+  ],
+  "summary": {
+    "value_column": "river_discharge",
+    "count_non_null": 0,
+    "mean": null,
+    "std": null,
+    "min": null,
+    "p25": null,
+    "p50": null,
+    "p75": null,
+    "p95": null,
+    "max": null
+  },
+  "duplicate_timestamps": 0,
+  "missing_values": {
+    "count": 4684,
+    "pct": 100.0,
+    "max_consecutive": 4684
+  },
+  "out_of_range": {
+    "below_min": 0,
+    "above_max": 0,
+    "min_bound": 0.0,
+    "max_bound": 50000.0,
+    "unit": "m\u00b3/s"
+  },
+  "coverage": {
+    "expected_start": "2014-01-01",
+    "expected_end": "2026-10-28",
+    "actual_start": "2014-01-01",
+    "actual_end": "2026-10-28"
+  },
+  "passed": true
+}

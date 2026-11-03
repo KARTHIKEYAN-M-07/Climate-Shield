@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_PAL_VELLORE",
+  "horizon_days": 7,
+  "model_name": "decision_tree",
+  "confidence_level": 0.9,
+  "q_hat": 0.9823,
+  "empirical_coverage_pct": 95.16,
+  "calibrated_at_utc": "2026-10-29T10:13:06.128872+00:00"
+}

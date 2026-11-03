@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_MUSIRI",
+  "horizon_days": 3,
+  "model_name": "extra_trees",
+  "confidence_level": 0.9,
+  "q_hat": 151.0513,
+  "empirical_coverage_pct": 93.03,
+  "calibrated_at_utc": "2026-10-29T15:29:06.793887+00:00"
+}

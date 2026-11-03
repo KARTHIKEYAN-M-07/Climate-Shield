@@ -1,0 +1,14 @@
+{
+  "station_id": "TN_PAL_VELLORE",
+  "is_sane": true,
+  "reason": "Data sanity checks passed",
+  "checked_at_utc": "2026-10-29T10:12:22.434309+00:00",
+  "details": {
+    "total_rows": 4684,
+    "valid_count": 4684,
+    "zero_pct": 0.0,
+    "std": 0.9986,
+    "range": 25.22,
+    "max_gap_days": 0
+  }
+}

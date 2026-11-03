@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_PAL_VELLORE",
+  "horizon_days": 1,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 0.2895,
+  "empirical_coverage_pct": 88.9,
+  "calibrated_at_utc": "2026-10-29T10:12:42.377646+00:00"
+}

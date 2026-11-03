@@ -1,0 +1,63 @@
+{
+  "model_name": "persistence",
+  "station_id": "TN_CAU_MUSIRI",
+  "horizon_days": 1,
+  "features": [
+    "river_discharge"
+  ],
+  "target_transform": "raw",
+  "trained_at_utc": "2026-10-29T15:28:31.322402+00:00",
+  "metrics": {
+    "station_id": "TN_CAU_MUSIRI",
+    "horizon_days": 1,
+    "model": "persistence",
+    "mae": 21.3067,
+    "rmse": 42.9153,
+    "r2": 0.9886,
+    "nse": 0.9886,
+    "peak_flow_error_pct": 0.0,
+    "peak_timing_error_days": 1,
+    "missed_event_rate": 0.4,
+    "false_alarm_rate": 0.0029,
+    "event_threshold_m3s": 1625.31,
+    "interval_coverage": 91.47,
+    "train_time_s": 0.002,
+    "beats_baseline": false,
+    "beats_persistence": false,
+    "beats_all_baselines": false,
+    "target_transform": "raw",
+    "train_rows": 3273,
+    "val_rows": 701,
+    "test_rows": 703,
+    "test_start_date": "2024-11-18",
+    "test_end_date": "2026-10-21"
+  },
+  "conformal_q_hat": 61.43,
+  "conformal_test_coverage_pct": 91.47,
+  "drift_reference_stats": {
+    "feature_name": "river_discharge",
+    "mean": 502.1326,
+    "std": 543.7664,
+    "min": 0.31,
+    "max": 4314.19,
+    "p10": 58.868,
+    "p25": 102.04,
+    "p50": 253.68,
+    "p75": 813.7,
+    "p90": 1159.916,
+    "quantiles_10bin": [
+      0.31,
+      58.868,
+      89.654,
+      118.838,
+      158.59,
+      253.68,
+      466.09,
+      713.5,
+      888.2,
+      1159.916,
+      4314.19
+    ],
+    "n_samples": 3273
+  }
+}

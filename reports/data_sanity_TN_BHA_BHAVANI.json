@@ -1,0 +1,14 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "is_sane": true,
+  "reason": "Data sanity checks passed",
+  "checked_at_utc": "2026-10-29T15:29:25.522756+00:00",
+  "details": {
+    "total_rows": 4684,
+    "valid_count": 4684,
+    "zero_pct": 0.0,
+    "std": 427.6496,
+    "range": 4042.54,
+    "max_gap_days": 0
+  }
+}

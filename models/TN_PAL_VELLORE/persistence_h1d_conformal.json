@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_PAL_VELLORE",
+  "horizon_days": 1,
+  "model_name": "persistence",
+  "confidence_level": 0.9,
+  "q_hat": 0.29,
+  "empirical_coverage_pct": 89.76,
+  "calibrated_at_utc": "2026-10-29T10:12:23.021787+00:00"
+}

@@ -1,0 +1,271 @@
+station,horizon,model,status,artifact_file,artifact_exists,notes
+TN_CAU_TRICHY,1,persistence,trained,models/TN_CAU_TRICHY/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,ridge,trained,models/TN_CAU_TRICHY/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,decision_tree,trained,models/TN_CAU_TRICHY/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,random_forest,trained,models/TN_CAU_TRICHY/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,gradient_boosting,trained,models/TN_CAU_TRICHY/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,xgboost,trained,models/TN_CAU_TRICHY/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,hist_gradient_boosting,trained,models/TN_CAU_TRICHY/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,elastic_net,trained,models/TN_CAU_TRICHY/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,extra_trees,trained,models/TN_CAU_TRICHY/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,1,lstm,skipped,models/TN_CAU_TRICHY/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_TRICHY,3,persistence,trained,models/TN_CAU_TRICHY/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,ridge,trained,models/TN_CAU_TRICHY/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,decision_tree,trained,models/TN_CAU_TRICHY/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,random_forest,trained,models/TN_CAU_TRICHY/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,gradient_boosting,trained,models/TN_CAU_TRICHY/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,xgboost,trained,models/TN_CAU_TRICHY/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,hist_gradient_boosting,trained,models/TN_CAU_TRICHY/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,elastic_net,trained,models/TN_CAU_TRICHY/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,extra_trees,trained,models/TN_CAU_TRICHY/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,3,lstm,skipped,models/TN_CAU_TRICHY/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_TRICHY,7,persistence,trained,models/TN_CAU_TRICHY/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,ridge,trained,models/TN_CAU_TRICHY/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,decision_tree,trained,models/TN_CAU_TRICHY/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,random_forest,trained,models/TN_CAU_TRICHY/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,gradient_boosting,trained,models/TN_CAU_TRICHY/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,xgboost,trained,models/TN_CAU_TRICHY/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,hist_gradient_boosting,trained,models/TN_CAU_TRICHY/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,elastic_net,trained,models/TN_CAU_TRICHY/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,extra_trees,trained,models/TN_CAU_TRICHY/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_TRICHY,7,lstm,skipped,models/TN_CAU_TRICHY/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_METTUR,1,persistence,trained,models/TN_CAU_METTUR/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,ridge,trained,models/TN_CAU_METTUR/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,decision_tree,trained,models/TN_CAU_METTUR/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,random_forest,trained,models/TN_CAU_METTUR/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,gradient_boosting,trained,models/TN_CAU_METTUR/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,xgboost,trained,models/TN_CAU_METTUR/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,hist_gradient_boosting,trained,models/TN_CAU_METTUR/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,elastic_net,trained,models/TN_CAU_METTUR/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,extra_trees,trained,models/TN_CAU_METTUR/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,1,lstm,skipped,models/TN_CAU_METTUR/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_METTUR,3,persistence,trained,models/TN_CAU_METTUR/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,ridge,trained,models/TN_CAU_METTUR/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,decision_tree,trained,models/TN_CAU_METTUR/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,random_forest,trained,models/TN_CAU_METTUR/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,gradient_boosting,trained,models/TN_CAU_METTUR/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,xgboost,trained,models/TN_CAU_METTUR/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,hist_gradient_boosting,trained,models/TN_CAU_METTUR/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,elastic_net,trained,models/TN_CAU_METTUR/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,extra_trees,trained,models/TN_CAU_METTUR/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,3,lstm,skipped,models/TN_CAU_METTUR/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_METTUR,7,persistence,trained,models/TN_CAU_METTUR/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,ridge,trained,models/TN_CAU_METTUR/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,decision_tree,trained,models/TN_CAU_METTUR/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,random_forest,trained,models/TN_CAU_METTUR/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,gradient_boosting,trained,models/TN_CAU_METTUR/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,xgboost,trained,models/TN_CAU_METTUR/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,hist_gradient_boosting,trained,models/TN_CAU_METTUR/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,elastic_net,trained,models/TN_CAU_METTUR/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,extra_trees,trained,models/TN_CAU_METTUR/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_METTUR,7,lstm,skipped,models/TN_CAU_METTUR/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_MUSIRI,1,persistence,trained,models/TN_CAU_MUSIRI/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,ridge,trained,models/TN_CAU_MUSIRI/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,decision_tree,trained,models/TN_CAU_MUSIRI/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,random_forest,trained,models/TN_CAU_MUSIRI/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,gradient_boosting,trained,models/TN_CAU_MUSIRI/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,xgboost,trained,models/TN_CAU_MUSIRI/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,hist_gradient_boosting,trained,models/TN_CAU_MUSIRI/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,elastic_net,trained,models/TN_CAU_MUSIRI/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,extra_trees,trained,models/TN_CAU_MUSIRI/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,1,lstm,skipped,models/TN_CAU_MUSIRI/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_MUSIRI,3,persistence,trained,models/TN_CAU_MUSIRI/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,ridge,trained,models/TN_CAU_MUSIRI/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,decision_tree,trained,models/TN_CAU_MUSIRI/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,random_forest,trained,models/TN_CAU_MUSIRI/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,gradient_boosting,trained,models/TN_CAU_MUSIRI/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,xgboost,trained,models/TN_CAU_MUSIRI/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,hist_gradient_boosting,trained,models/TN_CAU_MUSIRI/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,elastic_net,trained,models/TN_CAU_MUSIRI/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,extra_trees,trained,models/TN_CAU_MUSIRI/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,3,lstm,skipped,models/TN_CAU_MUSIRI/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_CAU_MUSIRI,7,persistence,trained,models/TN_CAU_MUSIRI/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,ridge,trained,models/TN_CAU_MUSIRI/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,decision_tree,trained,models/TN_CAU_MUSIRI/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,random_forest,trained,models/TN_CAU_MUSIRI/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,gradient_boosting,trained,models/TN_CAU_MUSIRI/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,xgboost,trained,models/TN_CAU_MUSIRI/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,hist_gradient_boosting,trained,models/TN_CAU_MUSIRI/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,elastic_net,trained,models/TN_CAU_MUSIRI/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,extra_trees,trained,models/TN_CAU_MUSIRI/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_CAU_MUSIRI,7,lstm,skipped,models/TN_CAU_MUSIRI/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_VAI_MADURAI,1,persistence,trained,models/TN_VAI_MADURAI/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,ridge,trained,models/TN_VAI_MADURAI/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,decision_tree,trained,models/TN_VAI_MADURAI/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,random_forest,trained,models/TN_VAI_MADURAI/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,gradient_boosting,trained,models/TN_VAI_MADURAI/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,xgboost,trained,models/TN_VAI_MADURAI/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,hist_gradient_boosting,trained,models/TN_VAI_MADURAI/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,elastic_net,trained,models/TN_VAI_MADURAI/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,extra_trees,trained,models/TN_VAI_MADURAI/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,1,lstm,skipped,models/TN_VAI_MADURAI/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_VAI_MADURAI,3,persistence,trained,models/TN_VAI_MADURAI/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,ridge,trained,models/TN_VAI_MADURAI/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,decision_tree,trained,models/TN_VAI_MADURAI/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,random_forest,trained,models/TN_VAI_MADURAI/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,gradient_boosting,trained,models/TN_VAI_MADURAI/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,xgboost,trained,models/TN_VAI_MADURAI/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,hist_gradient_boosting,trained,models/TN_VAI_MADURAI/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,elastic_net,trained,models/TN_VAI_MADURAI/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,extra_trees,trained,models/TN_VAI_MADURAI/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,3,lstm,skipped,models/TN_VAI_MADURAI/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_VAI_MADURAI,7,persistence,trained,models/TN_VAI_MADURAI/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,ridge,trained,models/TN_VAI_MADURAI/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,decision_tree,trained,models/TN_VAI_MADURAI/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,random_forest,trained,models/TN_VAI_MADURAI/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,gradient_boosting,trained,models/TN_VAI_MADURAI/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,xgboost,trained,models/TN_VAI_MADURAI/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,hist_gradient_boosting,trained,models/TN_VAI_MADURAI/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,elastic_net,trained,models/TN_VAI_MADURAI/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,extra_trees,trained,models/TN_VAI_MADURAI/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_VAI_MADURAI,7,lstm,skipped,models/TN_VAI_MADURAI/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_THA_TIRUNELVELI,1,persistence,trained,models/TN_THA_TIRUNELVELI/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,ridge,trained,models/TN_THA_TIRUNELVELI/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,decision_tree,trained,models/TN_THA_TIRUNELVELI/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,random_forest,trained,models/TN_THA_TIRUNELVELI/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,gradient_boosting,trained,models/TN_THA_TIRUNELVELI/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,xgboost,trained,models/TN_THA_TIRUNELVELI/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,hist_gradient_boosting,trained,models/TN_THA_TIRUNELVELI/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,elastic_net,trained,models/TN_THA_TIRUNELVELI/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,extra_trees,trained,models/TN_THA_TIRUNELVELI/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,1,lstm,skipped,models/TN_THA_TIRUNELVELI/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_THA_TIRUNELVELI,3,persistence,trained,models/TN_THA_TIRUNELVELI/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,ridge,trained,models/TN_THA_TIRUNELVELI/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,decision_tree,trained,models/TN_THA_TIRUNELVELI/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,random_forest,trained,models/TN_THA_TIRUNELVELI/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,gradient_boosting,trained,models/TN_THA_TIRUNELVELI/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,xgboost,trained,models/TN_THA_TIRUNELVELI/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,hist_gradient_boosting,trained,models/TN_THA_TIRUNELVELI/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,elastic_net,trained,models/TN_THA_TIRUNELVELI/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,extra_trees,trained,models/TN_THA_TIRUNELVELI/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,3,lstm,skipped,models/TN_THA_TIRUNELVELI/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_THA_TIRUNELVELI,7,persistence,trained,models/TN_THA_TIRUNELVELI/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,ridge,trained,models/TN_THA_TIRUNELVELI/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,decision_tree,trained,models/TN_THA_TIRUNELVELI/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,random_forest,trained,models/TN_THA_TIRUNELVELI/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,gradient_boosting,trained,models/TN_THA_TIRUNELVELI/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,xgboost,trained,models/TN_THA_TIRUNELVELI/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,hist_gradient_boosting,trained,models/TN_THA_TIRUNELVELI/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,elastic_net,trained,models/TN_THA_TIRUNELVELI/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,extra_trees,trained,models/TN_THA_TIRUNELVELI/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_THA_TIRUNELVELI,7,lstm,skipped,models/TN_THA_TIRUNELVELI/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_PAL_VELLORE,1,persistence,trained,models/TN_PAL_VELLORE/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,ridge,trained,models/TN_PAL_VELLORE/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,decision_tree,trained,models/TN_PAL_VELLORE/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,random_forest,trained,models/TN_PAL_VELLORE/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,gradient_boosting,trained,models/TN_PAL_VELLORE/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,xgboost,trained,models/TN_PAL_VELLORE/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,hist_gradient_boosting,trained,models/TN_PAL_VELLORE/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,elastic_net,trained,models/TN_PAL_VELLORE/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,extra_trees,trained,models/TN_PAL_VELLORE/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,1,lstm,skipped,models/TN_PAL_VELLORE/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_PAL_VELLORE,3,persistence,trained,models/TN_PAL_VELLORE/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,ridge,trained,models/TN_PAL_VELLORE/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,decision_tree,trained,models/TN_PAL_VELLORE/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,random_forest,trained,models/TN_PAL_VELLORE/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,gradient_boosting,trained,models/TN_PAL_VELLORE/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,xgboost,trained,models/TN_PAL_VELLORE/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,hist_gradient_boosting,trained,models/TN_PAL_VELLORE/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,elastic_net,trained,models/TN_PAL_VELLORE/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,extra_trees,trained,models/TN_PAL_VELLORE/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,3,lstm,skipped,models/TN_PAL_VELLORE/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_PAL_VELLORE,7,persistence,trained,models/TN_PAL_VELLORE/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,ridge,trained,models/TN_PAL_VELLORE/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,decision_tree,trained,models/TN_PAL_VELLORE/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,random_forest,trained,models/TN_PAL_VELLORE/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,gradient_boosting,trained,models/TN_PAL_VELLORE/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,xgboost,trained,models/TN_PAL_VELLORE/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,hist_gradient_boosting,trained,models/TN_PAL_VELLORE/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,elastic_net,trained,models/TN_PAL_VELLORE/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,extra_trees,trained,models/TN_PAL_VELLORE/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_PAL_VELLORE,7,lstm,skipped,models/TN_PAL_VELLORE/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_ADY_CHENNAI,1,persistence,insufficient data,models/TN_ADY_CHENNAI/persistence_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,ridge,insufficient data,models/TN_ADY_CHENNAI/ridge_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,decision_tree,insufficient data,models/TN_ADY_CHENNAI/decision_tree_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,random_forest,insufficient data,models/TN_ADY_CHENNAI/random_forest_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,gradient_boosting,insufficient data,models/TN_ADY_CHENNAI/gradient_boosting_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,xgboost,insufficient data,models/TN_ADY_CHENNAI/xgboost_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,hist_gradient_boosting,insufficient data,models/TN_ADY_CHENNAI/hist_gradient_boosting_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,elastic_net,insufficient data,models/TN_ADY_CHENNAI/elastic_net_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,extra_trees,insufficient data,models/TN_ADY_CHENNAI/extra_trees_h1d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,1,lstm,insufficient data,models/TN_ADY_CHENNAI/lstm_h1d.keras,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,persistence,insufficient data,models/TN_ADY_CHENNAI/persistence_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,ridge,insufficient data,models/TN_ADY_CHENNAI/ridge_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,decision_tree,insufficient data,models/TN_ADY_CHENNAI/decision_tree_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,random_forest,insufficient data,models/TN_ADY_CHENNAI/random_forest_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,gradient_boosting,insufficient data,models/TN_ADY_CHENNAI/gradient_boosting_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,xgboost,insufficient data,models/TN_ADY_CHENNAI/xgboost_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,hist_gradient_boosting,insufficient data,models/TN_ADY_CHENNAI/hist_gradient_boosting_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,elastic_net,insufficient data,models/TN_ADY_CHENNAI/elastic_net_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,extra_trees,insufficient data,models/TN_ADY_CHENNAI/extra_trees_h3d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,3,lstm,insufficient data,models/TN_ADY_CHENNAI/lstm_h3d.keras,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,persistence,insufficient data,models/TN_ADY_CHENNAI/persistence_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,ridge,insufficient data,models/TN_ADY_CHENNAI/ridge_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,decision_tree,insufficient data,models/TN_ADY_CHENNAI/decision_tree_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,random_forest,insufficient data,models/TN_ADY_CHENNAI/random_forest_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,gradient_boosting,insufficient data,models/TN_ADY_CHENNAI/gradient_boosting_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,xgboost,insufficient data,models/TN_ADY_CHENNAI/xgboost_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,hist_gradient_boosting,insufficient data,models/TN_ADY_CHENNAI/hist_gradient_boosting_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,elastic_net,insufficient data,models/TN_ADY_CHENNAI/elastic_net_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,extra_trees,insufficient data,models/TN_ADY_CHENNAI/extra_trees_h7d.joblib,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_ADY_CHENNAI,7,lstm,insufficient data,models/TN_ADY_CHENNAI/lstm_h7d.keras,False,Discharge has 0 valid readings (100% missing in raw GloFAS data)
+TN_BHA_BHAVANI,1,persistence,trained,models/TN_BHA_BHAVANI/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,ridge,trained,models/TN_BHA_BHAVANI/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,decision_tree,trained,models/TN_BHA_BHAVANI/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,random_forest,trained,models/TN_BHA_BHAVANI/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,gradient_boosting,trained,models/TN_BHA_BHAVANI/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,xgboost,trained,models/TN_BHA_BHAVANI/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,hist_gradient_boosting,trained,models/TN_BHA_BHAVANI/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,elastic_net,trained,models/TN_BHA_BHAVANI/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,extra_trees,trained,models/TN_BHA_BHAVANI/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,1,lstm,skipped,models/TN_BHA_BHAVANI/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_BHA_BHAVANI,3,persistence,trained,models/TN_BHA_BHAVANI/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,ridge,trained,models/TN_BHA_BHAVANI/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,decision_tree,trained,models/TN_BHA_BHAVANI/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,random_forest,trained,models/TN_BHA_BHAVANI/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,gradient_boosting,trained,models/TN_BHA_BHAVANI/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,xgboost,trained,models/TN_BHA_BHAVANI/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,hist_gradient_boosting,trained,models/TN_BHA_BHAVANI/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,elastic_net,trained,models/TN_BHA_BHAVANI/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,extra_trees,trained,models/TN_BHA_BHAVANI/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,3,lstm,skipped,models/TN_BHA_BHAVANI/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_BHA_BHAVANI,7,persistence,trained,models/TN_BHA_BHAVANI/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,ridge,trained,models/TN_BHA_BHAVANI/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,decision_tree,trained,models/TN_BHA_BHAVANI/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,random_forest,trained,models/TN_BHA_BHAVANI/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,gradient_boosting,trained,models/TN_BHA_BHAVANI/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,xgboost,trained,models/TN_BHA_BHAVANI/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,hist_gradient_boosting,trained,models/TN_BHA_BHAVANI/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,elastic_net,trained,models/TN_BHA_BHAVANI/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,extra_trees,trained,models/TN_BHA_BHAVANI/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_BHA_BHAVANI,7,lstm,skipped,models/TN_BHA_BHAVANI/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_NOY_TIRUPPUR,1,persistence,trained,models/TN_NOY_TIRUPPUR/persistence_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,ridge,trained,models/TN_NOY_TIRUPPUR/ridge_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,decision_tree,trained,models/TN_NOY_TIRUPPUR/decision_tree_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,random_forest,trained,models/TN_NOY_TIRUPPUR/random_forest_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,gradient_boosting,trained,models/TN_NOY_TIRUPPUR/gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,xgboost,trained,models/TN_NOY_TIRUPPUR/xgboost_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,hist_gradient_boosting,trained,models/TN_NOY_TIRUPPUR/hist_gradient_boosting_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,elastic_net,trained,models/TN_NOY_TIRUPPUR/elastic_net_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,extra_trees,trained,models/TN_NOY_TIRUPPUR/extra_trees_h1d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,1,lstm,skipped,models/TN_NOY_TIRUPPUR/lstm_h1d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_NOY_TIRUPPUR,3,persistence,trained,models/TN_NOY_TIRUPPUR/persistence_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,ridge,trained,models/TN_NOY_TIRUPPUR/ridge_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,decision_tree,trained,models/TN_NOY_TIRUPPUR/decision_tree_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,random_forest,trained,models/TN_NOY_TIRUPPUR/random_forest_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,gradient_boosting,trained,models/TN_NOY_TIRUPPUR/gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,xgboost,trained,models/TN_NOY_TIRUPPUR/xgboost_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,hist_gradient_boosting,trained,models/TN_NOY_TIRUPPUR/hist_gradient_boosting_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,elastic_net,trained,models/TN_NOY_TIRUPPUR/elastic_net_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,extra_trees,trained,models/TN_NOY_TIRUPPUR/extra_trees_h3d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,3,lstm,skipped,models/TN_NOY_TIRUPPUR/lstm_h3d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)
+TN_NOY_TIRUPPUR,7,persistence,trained,models/TN_NOY_TIRUPPUR/persistence_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,ridge,trained,models/TN_NOY_TIRUPPUR/ridge_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,decision_tree,trained,models/TN_NOY_TIRUPPUR/decision_tree_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,random_forest,trained,models/TN_NOY_TIRUPPUR/random_forest_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,gradient_boosting,trained,models/TN_NOY_TIRUPPUR/gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,xgboost,trained,models/TN_NOY_TIRUPPUR/xgboost_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,hist_gradient_boosting,trained,models/TN_NOY_TIRUPPUR/hist_gradient_boosting_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,elastic_net,trained,models/TN_NOY_TIRUPPUR/elastic_net_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,extra_trees,trained,models/TN_NOY_TIRUPPUR/extra_trees_h7d.joblib,True,Trained and evaluated successfully
+TN_NOY_TIRUPPUR,7,lstm,skipped,models/TN_NOY_TIRUPPUR/lstm_h7d.keras,False,TensorFlow/Keras not installed (ModuleNotFoundError)

@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_THA_TIRUNELVELI",
+  "horizon_days": 7,
+  "model_name": "persistence",
+  "confidence_level": 0.9,
+  "q_hat": 1.36,
+  "empirical_coverage_pct": 88.05,
+  "calibrated_at_utc": "2026-10-29T10:11:57.063131+00:00"
+}

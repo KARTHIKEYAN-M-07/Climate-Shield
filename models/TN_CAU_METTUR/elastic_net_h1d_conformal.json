@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "horizon_days": 1,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 60.5116,
+  "empirical_coverage_pct": 92.75,
+  "calibrated_at_utc": "2026-10-29T15:27:52.271808+00:00"
+}

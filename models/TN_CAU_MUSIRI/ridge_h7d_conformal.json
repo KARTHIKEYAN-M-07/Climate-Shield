@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_MUSIRI",
+  "horizon_days": 7,
+  "model_name": "ridge",
+  "confidence_level": 0.9,
+  "q_hat": 254.9181,
+  "empirical_coverage_pct": 93.46,
+  "calibrated_at_utc": "2026-10-29T15:29:07.095132+00:00"
+}

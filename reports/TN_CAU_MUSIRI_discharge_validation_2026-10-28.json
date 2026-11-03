@@ -1,0 +1,41 @@
+{
+  "station_id": "TN_CAU_MUSIRI",
+  "dataset": "discharge",
+  "validated_at_utc": "2026-10-28T18:17:13.840547+00:00",
+  "retrieval_date": "2026-10-28",
+  "total_rows": 3652,
+  "issues": [],
+  "warnings": [],
+  "summary": {
+    "value_column": "river_discharge",
+    "count_non_null": 3652,
+    "mean": 0.1355,
+    "std": 0.6017,
+    "min": 0.02,
+    "p25": 0.03,
+    "p50": 0.03,
+    "p75": 0.05,
+    "p95": 0.3645,
+    "max": 13.66
+  },
+  "duplicate_timestamps": 0,
+  "missing_values": {
+    "count": 0,
+    "pct": 0.0,
+    "max_consecutive": 0
+  },
+  "out_of_range": {
+    "below_min": 0,
+    "above_max": 0,
+    "min_bound": 0.0,
+    "max_bound": 50000.0,
+    "unit": "m\u00b3/s"
+  },
+  "coverage": {
+    "expected_start": "2014-01-01",
+    "expected_end": "2023-12-31",
+    "actual_start": "2014-01-01",
+    "actual_end": "2023-12-31"
+  },
+  "passed": true
+}

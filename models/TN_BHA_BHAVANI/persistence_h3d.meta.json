@@ -1,0 +1,63 @@
+{
+  "model_name": "persistence",
+  "station_id": "TN_BHA_BHAVANI",
+  "horizon_days": 3,
+  "features": [
+    "river_discharge"
+  ],
+  "target_transform": "raw",
+  "trained_at_utc": "2026-10-29T15:29:43.663464+00:00",
+  "metrics": {
+    "station_id": "TN_BHA_BHAVANI",
+    "horizon_days": 3,
+    "model": "persistence",
+    "mae": 32.6765,
+    "rmse": 75.6629,
+    "r2": 0.9534,
+    "nse": 0.9534,
+    "peak_flow_error_pct": 0.0,
+    "peak_timing_error_days": 3,
+    "missed_event_rate": 0.3103,
+    "false_alarm_rate": 0.0134,
+    "event_threshold_m3s": 1305.17,
+    "interval_coverage": 91.89,
+    "train_time_s": 0.0024,
+    "beats_baseline": false,
+    "beats_persistence": false,
+    "beats_all_baselines": false,
+    "target_transform": "raw",
+    "train_rows": 3273,
+    "val_rows": 701,
+    "test_rows": 703,
+    "test_start_date": "2024-11-18",
+    "test_end_date": "2026-10-21"
+  },
+  "conformal_q_hat": 81.22,
+  "conformal_test_coverage_pct": 91.89,
+  "drift_reference_stats": {
+    "feature_name": "river_discharge",
+    "mean": 418.0809,
+    "std": 449.5743,
+    "min": 2.22,
+    "max": 4044.76,
+    "p10": 54.85,
+    "p25": 92.97,
+    "p50": 216.77,
+    "p75": 692.43,
+    "p90": 893.95,
+    "quantiles_10bin": [
+      2.22,
+      54.85,
+      75.91,
+      105.41,
+      139.28,
+      216.77,
+      387.33,
+      571.8,
+      738.61,
+      893.95,
+      4044.76
+    ],
+    "n_samples": 3273
+  }
+}

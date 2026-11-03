@@ -1,0 +1,9 @@
+station_id,best_model_before,rmse_before,best_model_after,rmse_after,rmse_change,pct_change
+TN_BHA_BHAVANI,ridge,0.118,gradient_boosting,0.1559,0.0379,32.12
+TN_CAU_METTUR,persistence,0.0328,ridge,0.2745,0.2417,736.89
+TN_CAU_MUSIRI,random_forest,0.3274,extra_trees,0.2646,-0.0628,-19.18
+TN_CAU_TRICHY,ridge,2.4857,extra_trees,2.4123,-0.0734,-2.95
+TN_NOY_TIRUPPUR,ridge,8.2896,xgboost,5.8874,-2.4022,-28.98
+TN_PAL_VELLORE,ridge,0.5443,extra_trees,0.3676,-0.1767,-32.46
+TN_THA_TIRUNELVELI,ridge,1.3469,ridge,0.5087,-0.8382,-62.23
+TN_VAI_MADURAI,extra_trees,5.0195,extra_trees,3.9772,-1.0423,-20.77

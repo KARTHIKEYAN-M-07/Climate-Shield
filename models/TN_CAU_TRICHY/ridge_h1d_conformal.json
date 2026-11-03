@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_TRICHY",
+  "horizon_days": 1,
+  "model_name": "ridge",
+  "confidence_level": 0.9,
+  "q_hat": 1.9858,
+  "empirical_coverage_pct": 93.03,
+  "calibrated_at_utc": "2026-10-29T11:38:51.809195+00:00"
+}

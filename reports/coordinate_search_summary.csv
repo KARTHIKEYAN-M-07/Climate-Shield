@@ -1,0 +1,5 @@
+station_id,station_name,status,nominal_lat,nominal_lon,chosen_lat,chosen_lon,distance_moved_km,training_mean_m3s,training_p90_m3s,training_cv,viable_candidate_count
+TN_CAU_METTUR,Cauvery at Mettur Dam (downstream),FOUND_VIABLE_CHANNEL,11.7932,77.8013,11.7932,77.7513,5.44,322.42,694.503,1.119,18
+TN_CAU_MUSIRI,Cauvery at Musiri,FOUND_VIABLE_CHANNEL,10.9554,78.4432,10.9054,78.4432,5.56,502.365,1158.581,1.082,19
+TN_ADY_CHENNAI,Adyar at Chennai,FOUND_VIABLE_CHANNEL,13.0067,80.257,13.0067,80.207,5.42,13.039,25.18,2.576,13
+TN_BHA_BHAVANI,Bhavani at Bhavani Confluence,FOUND_VIABLE_CHANNEL,11.45,77.6833,11.45,77.6333,5.45,418.258,892.925,1.074,20

@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_PAL_VELLORE",
+  "horizon_days": 3,
+  "model_name": "hist_gradient_boosting",
+  "confidence_level": 0.9,
+  "q_hat": 0.52,
+  "empirical_coverage_pct": 93.03,
+  "calibrated_at_utc": "2026-10-29T10:13:03.604092+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "benchmark_metadata": {
+    "n_runs": 50,
+    "unit": "milliseconds (ms)",
+    "measured_at": "2026-10-13T18:08:36Z"
+  },
+  "summary": {
+    "median_total_ms": 6.07,
+    "p95_total_ms": 14.79,
+    "min_total_ms": 4.36,
+    "max_total_ms": 27.4
+  },
+  "stage_breakdown": {
+    "fetch": {
+      "median_ms": 1.48,
+      "p95_ms": 1.84
+    },
+    "features": {
+      "median_ms": 4.45,
+      "p95_ms": 11.24
+    },
+    "predict": {
+      "median_ms": 0.07,
+      "p95_ms": 0.19
+    },
+    "render": {
+      "median_ms": 0.12,
+      "p95_ms": 0.28
+    }
+  }
+}

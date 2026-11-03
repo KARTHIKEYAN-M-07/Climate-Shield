@@ -1,0 +1,50 @@
+station_id,station_name,lat,lon,distance_km,is_nominal,within_max_dist,n_training_days,mean_m3s,median_m3s,p90_m3s,max_m3s,cv,zero_share,signal_rule,signal_pass,score,is_viable,raw_score
+TN_ADY_CHENNAI,Adyar at Chennai,13.0067,80.207,5.42,False,True,3278,13.039,3.47,25.18,409.2,2.576,0.0,PASS,True,51.034,True,64.86368
+TN_ADY_CHENNAI,Adyar at Chennai,13.0067,80.157,10.83,False,True,3278,12.632,3.35,23.959,400.79,2.588,0.0,PASS,True,40.224,True,62.005892
+TN_ADY_CHENNAI,Adyar at Chennai,13.0567,80.207,7.76,False,True,3278,10.412,3.3,18.785,309.46,2.419,0.0,PASS,True,32.738,True,45.440915000000004
+TN_ADY_CHENNAI,Adyar at Chennai,13.0067,80.107,16.25,False,True,3278,11.472,2.79,21.765,382.71,2.689,0.0,PASS,True,32.29,True,58.526085
+TN_ADY_CHENNAI,Adyar at Chennai,13.0567,80.157,12.18,False,True,3278,9.423,2.85,16.847,291.42,2.521,0.0,PASS,True,26.396,True,42.471287000000004
+TN_ADY_CHENNAI,Adyar at Chennai,13.0567,80.107,17.17,False,True,3278,8.061,2.16,14.079,270.02,2.717,0.0,PASS,True,20.583,True,38.252643000000006
+TN_ADY_CHENNAI,Adyar at Chennai,13.1567,80.207,17.54,False,True,3278,5.922,2.28,12.409,143.54,1.91,0.0,PASS,True,12.627,True,23.70119
+TN_ADY_CHENNAI,Adyar at Chennai,13.1067,80.207,12.37,False,True,3278,3.705,1.55,7.81,89.99,1.788,0.0,PASS,True,8.628,True,13.964279999999999
+TN_ADY_CHENNAI,Adyar at Chennai,13.1067,80.157,15.52,False,True,3278,2.625,1.06,5.61,66.92,1.817,0.0,PASS,True,5.74,True,10.19337
+TN_ADY_CHENNAI,Adyar at Chennai,13.1567,80.157,19.89,False,True,3278,1.555,0.5,3.35,41.17,2.104,0.0,PASS,True,3.534,True,7.048400000000001
+TN_ADY_CHENNAI,Adyar at Chennai,13.1067,80.107,19.69,False,True,3278,1.48,0.52,3.329,41.76,1.932,0.0,PASS,True,3.241,True,6.431628
+TN_ADY_CHENNAI,Adyar at Chennai,12.9567,80.157,12.18,False,True,3278,0.888,0.36,1.88,22.23,1.844,0.0,PASS,True,2.155,True,3.46672
+TN_ADY_CHENNAI,Adyar at Chennai,13.1567,80.107,23.28,False,True,3278,1.041,0.37,2.21,28.92,2.026,0.0,PASS,True,2.069,True,4.47746
+TN_ADY_CHENNAI,Adyar at Chennai,13.0067,80.257,0.0,True,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.0067,80.307,5.42,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9567,80.257,5.56,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.0567,80.257,5.56,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9567,80.207,7.76,False,True,3278,0.25,0.02,0.61,8.98,2.662,0.4619,FAIL: dry_bed=46.2% > 20%,False,0.0,False,1.6238199999999998
+TN_ADY_CHENNAI,Adyar at Chennai,12.9567,80.307,7.76,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.0567,80.307,7.76,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.0067,80.357,10.83,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9067,80.257,11.12,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1067,80.257,11.12,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9567,80.357,12.18,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.0567,80.357,12.18,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9067,80.207,12.37,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9067,80.307,12.37,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1067,80.307,12.37,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1067,80.357,15.52,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9067,80.157,15.53,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9067,80.357,15.53,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.0067,80.407,16.25,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.8567,80.257,16.68,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1567,80.257,16.68,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.0567,80.407,17.17,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9567,80.107,17.18,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9567,80.407,17.18,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.8567,80.207,17.54,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.8567,80.307,17.54,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1567,80.307,17.54,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9067,80.107,19.69,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.9067,80.407,19.69,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1067,80.407,19.69,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.8567,80.157,19.89,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.8567,80.357,19.89,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1567,80.357,19.89,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,13.1567,80.407,23.28,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.8567,80.107,23.29,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0
+TN_ADY_CHENNAI,Adyar at Chennai,12.8567,80.407,23.29,False,True,0,0.0,0.0,0.0,0.0,0.0,1.0,Insufficient records (0 < 500),False,0.0,False,0.0

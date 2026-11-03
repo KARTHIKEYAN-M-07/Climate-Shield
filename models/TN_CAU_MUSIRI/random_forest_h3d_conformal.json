@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_MUSIRI",
+  "horizon_days": 3,
+  "model_name": "random_forest",
+  "confidence_level": 0.9,
+  "q_hat": 162.7387,
+  "empirical_coverage_pct": 92.75,
+  "calibrated_at_utc": "2026-10-29T15:28:53.416017+00:00"
+}

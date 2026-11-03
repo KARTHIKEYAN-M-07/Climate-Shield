@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_TRICHY",
+  "horizon_days": 3,
+  "model_name": "decision_tree",
+  "confidence_level": 0.9,
+  "q_hat": 3.3549,
+  "empirical_coverage_pct": 91.75,
+  "calibrated_at_utc": "2026-10-29T11:39:05.523688+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "model_name": "persistence",
+  "station_id": "TN_NOY_TIRUPPUR",
+  "horizon_days": 7,
+  "features": [
+    "river_discharge"
+  ],
+  "target_transform": "raw",
+  "trained_at_utc": "2026-10-29T16:02:51.764816+00:00",
+  "metrics": {
+    "station_id": "TN_NOY_TIRUPPUR",
+    "horizon_days": 7,
+    "model": "persistence",
+    "mae": 8.165,
+    "rmse": 13.5192,
+    "r2": -0.1588,
+    "nse": -0.1588,
+    "peak_flow_error_pct": -13.66,
+    "peak_timing_error_days": -365,
+    "missed_event_rate": 0.9,
+    "false_alarm_rate": 0.0115,
+    "event_threshold_m3s": 55.59,
+    "interval_coverage": 95.45,
+    "train_time_s": 0.0029,
+    "beats_baseline": false,
+    "beats_persistence": false,
+    "beats_all_baselines": false,
+    "target_transform": "raw",
+    "train_rows": 3273,
+    "val_rows": 701,
+    "test_rows": 703,
+    "test_start_date": "2024-11-18",
+    "test_end_date": "2026-10-21"
+  },
+  "conformal_q_hat": 33.49,
+  "conformal_test_coverage_pct": 95.45,
+  "drift_reference_stats": {
+    "feature_name": "river_discharge",
+    "mean": 15.9931,
+    "std": 21.6411,
+    "min": 1.4,
+    "max": 531.11,
+    "p10": 3.84,
+    "p25": 4.71,
+    "p50": 7.91,
+    "p75": 19.04,
+    "p90": 37.64,
+    "quantiles_10bin": [
+      1.4,
+      3.84,
+      4.43,
+      4.97,
+      5.84,
+      7.91,
+      11.066,
+      15.83,
+      22.91,
+      37.64,
+      531.11
+    ],
+    "n_samples": 3273
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "horizon_days": 1,
+  "model_name": "extra_trees",
+  "confidence_level": 0.9,
+  "q_hat": 16.0579,
+  "empirical_coverage_pct": 89.47,
+  "calibrated_at_utc": "2026-10-29T15:27:53.181673+00:00"
+}

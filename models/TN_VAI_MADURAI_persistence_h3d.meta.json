@@ -1,0 +1,63 @@
+{
+  "model_name": "persistence",
+  "station_id": "TN_VAI_MADURAI",
+  "horizon_days": 3,
+  "features": [
+    "river_discharge"
+  ],
+  "target_transform": "raw",
+  "trained_at_utc": "2026-10-29T10:10:03.477692+00:00",
+  "metrics": {
+    "station_id": "TN_VAI_MADURAI",
+    "horizon_days": 3,
+    "model": "persistence",
+    "mae": 2.0833,
+    "rmse": 9.207,
+    "r2": -0.4125,
+    "nse": -0.4125,
+    "peak_flow_error_pct": 0.0,
+    "peak_timing_error_days": 3,
+    "missed_event_rate": 0.619,
+    "false_alarm_rate": 0.0191,
+    "event_threshold_m3s": 13.45,
+    "interval_coverage": 95.16,
+    "train_time_s": 0.0052,
+    "beats_baseline": false,
+    "beats_persistence": false,
+    "beats_all_baselines": false,
+    "target_transform": "raw",
+    "train_rows": 3273,
+    "val_rows": 701,
+    "test_rows": 703,
+    "test_start_date": "2024-11-18",
+    "test_end_date": "2026-10-21"
+  },
+  "conformal_q_hat": 8.6,
+  "conformal_test_coverage_pct": 95.16,
+  "drift_reference_stats": {
+    "feature_name": "river_discharge",
+    "mean": 3.6354,
+    "std": 16.8098,
+    "min": 0.16,
+    "max": 493.31,
+    "p10": 0.19,
+    "p25": 0.25,
+    "p50": 0.69,
+    "p75": 1.48,
+    "p90": 5.98,
+    "quantiles_10bin": [
+      0.16,
+      0.19,
+      0.22,
+      0.27,
+      0.39,
+      0.69,
+      1.16,
+      1.31,
+      1.89,
+      5.98,
+      493.31
+    ],
+    "n_samples": 3273
+  }
+}

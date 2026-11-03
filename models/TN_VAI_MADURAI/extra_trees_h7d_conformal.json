@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_VAI_MADURAI",
+  "horizon_days": 7,
+  "model_name": "extra_trees",
+  "confidence_level": 0.9,
+  "q_hat": 9.8205,
+  "empirical_coverage_pct": 93.17,
+  "calibrated_at_utc": "2026-10-29T10:11:00.816243+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "station_id": "TN_CAU_MUSIRI",
+  "is_sane": true,
+  "reason": "Data sanity checks passed",
+  "checked_at_utc": "2026-10-29T15:28:31.037028+00:00",
+  "details": {
+    "total_rows": 4684,
+    "valid_count": 4684,
+    "zero_pct": 0.0,
+    "std": 511.134,
+    "range": 4313.88,
+    "max_gap_days": 0
+  }
+}

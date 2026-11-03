@@ -1,0 +1,46 @@
+# =============================================================================
+# configs/live.yaml
+# Configuration for Near-Real-Time Live Data Fetching & Caching Layer
+# =============================================================================
+
+live_weather_api:
+  base_url: "https://api.open-meteo.com/v1/forecast"
+  daily_variables:
+    - "precipitation_sum"
+  past_days: 92          # Ensures coverage of 30-day rolling windows + lags
+  forecast_days: 7       # Fetched for display only (never as model input)
+  timezone: "Asia/Kolkata"  # Strictly aligned with configs/data.yaml for daily sum consistency
+  timeout_s: 20
+  max_retries: 3
+  backoff_factor: 2
+  rate_limit_pause_s: 65
+
+live_discharge_api:
+  base_url: "https://flood-api.open-meteo.com/v1/flood"
+  daily_variables:
+    - "river_discharge"  # Modelled GloFAS river discharge (m³/s)
+  past_days: 92
+  forecast_days: 7
+  timeout_s: 20
+  max_retries: 3
+  backoff_factor: 2
+  rate_limit_pause_s: 65
+
+cache:
+  ttl_seconds: 1800      # 30-minute in-memory Streamlit cache TTL
+  cache_dir: "data/live_cache"
+  max_data_stale_hours: 48.0  # Max age before daily data is considered STALE
+  max_cached_files_per_station: 5
+
+source_consistency:
+  comparison_days: 60
+  rainfall:
+    max_relative_bias: 0.15
+    max_14d_sum_diff_mm: 20.0
+  discharge:
+    max_relative_bias: 0.15
+    max_14d_sum_diff_m3s: 50.0
+
+forecast_sanity:
+  large_change_threshold_pct: 50.0  # Percentage delta vs latest observed triggering warning
+  multiplier_bound: 5.0             # Spikes exceeding 5x training maximum marked SUSPECT

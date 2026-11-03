@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_THA_TIRUNELVELI",
+  "horizon_days": 3,
+  "model_name": "xgboost",
+  "confidence_level": 0.9,
+  "q_hat": 1.2186,
+  "empirical_coverage_pct": 91.04,
+  "calibrated_at_utc": "2026-10-29T10:11:53.272794+00:00"
+}

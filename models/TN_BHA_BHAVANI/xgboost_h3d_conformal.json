@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_BHA_BHAVANI",
+  "horizon_days": 3,
+  "model_name": "xgboost",
+  "confidence_level": 0.9,
+  "q_hat": 72.1902,
+  "empirical_coverage_pct": 90.9,
+  "calibrated_at_utc": "2026-10-29T15:29:56.891273+00:00"
+}

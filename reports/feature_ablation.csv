@@ -1,0 +1,5 @@
+station,model,horizon,group_removed,n_features,val_rmse,delta_rmse,status
+TN_NOY_TIRUPPUR,ridge,1,all_features,52,7.1759,0.0,baseline
+TN_NOY_TIRUPPUR,ridge,1,without_rainfall_intensity,46,7.2261,0.0502,hurts
+TN_NOY_TIRUPPUR,ridge,1,without_discharge_dynamics,47,8.8571,1.6812,hurts
+TN_NOY_TIRUPPUR,ridge,1,without_calendar,48,7.2128,0.0369,hurts

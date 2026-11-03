@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "horizon_days": 3,
+  "model_name": "persistence",
+  "confidence_level": 0.9,
+  "q_hat": 52.43,
+  "empirical_coverage_pct": 92.03,
+  "calibrated_at_utc": "2026-10-29T15:27:53.537711+00:00"
+}

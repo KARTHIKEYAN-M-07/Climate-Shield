@@ -1,0 +1,15 @@
+{
+  "aligned_at_utc": "2026-10-28T18:18:35.480894+00:00",
+  "join_type": "inner",
+  "rainfall_rows_in": 3652,
+  "discharge_rows_in": 3652,
+  "aligned_rows_out": 3652,
+  "dates_only_in_rainfall": 0,
+  "dates_only_in_discharge": 0,
+  "date_range_start": "2014-01-01",
+  "date_range_end": "2023-12-31",
+  "sample_only_rain_dates": [],
+  "sample_only_disc_dates": [],
+  "discharge_label": "modelled river discharge (m\u00b3/s) \u2014 NOT gauge water level",
+  "source_credit": "Weather and flood data by Open-Meteo.com (CC BY 4.0)"
+}

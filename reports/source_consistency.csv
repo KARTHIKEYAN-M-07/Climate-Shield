@@ -1,0 +1,10 @@
+station_id,comparison_days,start_date,end_date,precip_mean_live,precip_mean_archive,precip_rel_bias,precip_14d_sum_diff,precip_consistent,discharge_mean_live,discharge_mean_archive,discharge_rel_bias,discharge_14d_sum_diff,discharge_consistent,is_consistent
+TN_CAU_METTUR,60,2026-08-30,2026-10-28,5.137,5.42,0.0523,17.0,True,228.864,228.864,0.0,0.0,True,True
+TN_PAL_VELLORE,60,2026-08-30,2026-10-28,6.363,6.923,0.0809,33.6,False,0.426,0.426,0.0,0.0,True,False
+TN_ADY_CHENNAI,60,2026-08-30,2026-10-28,5.94,6.508,0.0873,34.1,False,0.0,0.0,0.0,0.0,True,False
+TN_NOY_TIRUPPUR,60,2026-08-30,2026-10-28,5.177,5.33,0.0288,9.2,True,20.596,20.596,0.0,0.0,True,True
+TN_BHA_BHAVANI,60,2026-08-30,2026-10-28,5.945,6.288,0.0546,20.6,False,288.025,288.025,0.0,0.0,True,False
+TN_CAU_MUSIRI,60,2026-08-30,2026-10-28,4.838,5.13,0.0569,17.5,True,388.82,388.82,0.0,0.0,True,True
+TN_THA_TIRUNELVELI,59,2026-08-31,2026-10-28,4.868,5.256,0.0738,22.9,False,0.524,0.524,0.0,0.0,True,False
+TN_VAI_MADURAI,59,2026-08-31,2026-10-28,4.917,5.393,0.0883,28.1,False,2.948,2.948,0.0,0.0,True,False
+TN_CAU_TRICHY,59,2026-08-31,2026-10-28,5.481,5.729,0.0432,14.6,True,3.773,3.773,0.0,0.0,True,True

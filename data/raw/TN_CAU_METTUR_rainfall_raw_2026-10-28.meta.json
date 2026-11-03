@@ -1,0 +1,12 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "dataset": "rainfall",
+  "retrieval_date_utc": "2026-10-28",
+  "rows": 3652,
+  "columns": [
+    "date",
+    "precipitation_sum"
+  ],
+  "source_credit": "Weather and flood data by Open-Meteo.com (CC BY 4.0)",
+  "retrieved_by": "src/data/ingestion.py"
+}

@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_THA_TIRUNELVELI",
+  "horizon_days": 1,
+  "model_name": "elastic_net",
+  "confidence_level": 0.9,
+  "q_hat": 0.4988,
+  "empirical_coverage_pct": 89.62,
+  "calibrated_at_utc": "2026-10-29T10:11:26.823932+00:00"
+}

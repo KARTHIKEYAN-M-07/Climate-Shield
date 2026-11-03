@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_CAU_METTUR",
+  "horizon_days": 7,
+  "model_name": "gradient_boosting",
+  "confidence_level": 0.9,
+  "q_hat": 69.7823,
+  "empirical_coverage_pct": 89.9,
+  "calibrated_at_utc": "2026-10-29T15:28:26.274143+00:00"
+}

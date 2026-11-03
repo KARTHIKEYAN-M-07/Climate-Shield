@@ -1,0 +1,9 @@
+{
+  "station_id": "TN_VAI_MADURAI",
+  "horizon_days": 3,
+  "model_name": "persistence",
+  "confidence_level": 0.9,
+  "q_hat": 8.6,
+  "empirical_coverage_pct": 95.16,
+  "calibrated_at_utc": "2026-10-29T10:10:03.492378+00:00"
+}
